@@ -10,7 +10,7 @@ Welcome to my **initial UI/UX design prototype**, a front-end-only project showc
 
 ## Project Overview
 
-This project demonstrates a series of static webpages that are part of a standard web application's user flow. Each page is designed using HTML5 and CSS3, with a focus on visual clarity, usability, and simplicity.
+This project demonstrates a series of static webpages that are part of a standard web application's user flow. Each page is designed using HTML5 and CSS, with a focus on visual clarity, usability, and simplicity.
 
 It serves as a **foundation for future development**, where backend logic, form validations, and interactivity will be added.
 
