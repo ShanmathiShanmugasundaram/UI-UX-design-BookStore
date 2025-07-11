@@ -4,7 +4,7 @@
 
 Welcome to my **initial UI/UX design prototype**, a front-end-only project showcasing the essential layout and design elements of a web-based platform. This project is created with the goal of building a clean, intuitive, and accessible user experience from scratch.
 
-> 🔰 This is the **first version** of the design, focusing purely on layout and structure. No backend or database connectivity is implemented yet.
+> 🔰 This is the **first version** of the design, focusing purely on layout and structure.No backend or database connectivity is implemented yet.
 
 ---
 
