@@ -2,17 +2,15 @@
 
 # UI/UX Design Prototype – Web Application
 
-Welcome to my **initial UI/UX design prototype**, a front-end-only project showcasing the essential layout and design elements of a web-based platform. This project is created with the goal of building a clean, intuitive, and accessible user experience from scratch.
-
-> 🔰 This is the **first version** of the design, focusing purely on layout and structure.No backend or database connectivity is implemented yet.
+Welcome to my **initial UI/UX design prototype**, a front-end project showcasing the essential layout and design elements of a web-based platform. The goal is to bulid a clean, a simple layout with clarity and user friendly
+This is the **first version** of the design, focusing purely on layout and structure.
 
 ---
 
 ## Project Overview
 
-This project demonstrates a series of static webpages that are part of a standard web application's user flow. Each page is designed using HTML5 and CSS, with a focus on visual clarity, usability, and simplicity.
-
-It serves as a **foundation for future development**, where backend logic, form validations, and interactivity will be added.
+This design demonstrate a collection of books with different themes like India's top reads, fiction, thrillers, trending. And included a sample order page with Author name and cost with discount to buy the books. 
+It represents simple website for ordering books in online.
 
 ---
 
@@ -21,7 +19,7 @@ It serves as a **foundation for future development**, where backend logic, form 
 | Page         | Description                                                                 |
 |--------------|-----------------------------------------------------------------------------|
 | 🏠 **Home**     | The landing page with a welcoming layout, showcasing features or services. |
-| 🛒 **Order**    | Simulated interface to place or view orders, structured for e-commerce or service booking. |
+| 🛒 **Order**    | Simulated interface to place or view orders. |
 | 🔐 **Login**    | A secure and modern-looking login form for returning users.                |
 | 📝 **Register** | Sign-up form for new users with relevant input fields.                     |
 | ℹ️ **About**     | A simple page providing details about the application or organization.    |
