@@ -18,11 +18,11 @@ It represents simple website for ordering books in online.
 
 | Page         | Description                                                                 |
 |--------------|-----------------------------------------------------------------------------|
-| 🏠 **Home**     | The landing page with a welcoming layout, showcasing availiable books with different categories. |
-| 🛒 **Order**    | An interface to place or view orders. |
-| 🔐 **Login**    | A secure login form for returning users.                |
-| 📝 **Register** | Sign-up form for new users with relevant input fields.                     |
-| ℹ️ **About**     | A simple page providing details about the application or organization.    |
+|  **Home**     | The landing page with a welcoming layout, showcasing availiable books with different categories. |
+|  **Order**    | An interface to place or view orders. |
+|  **Login**    | A secure login form for returning users.                |
+|  **Register** | Sign-up form for new users with relevant input fields.                     |
+|  **About**     | A simple page providing details about the application or organization.    |
 
 ---
 ## Screenshot
